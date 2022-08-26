@@ -4,7 +4,7 @@ Some Description!
 
 # Sub Header
 
-Watch on Youtube on mobile
+Watch on Youtube on mobiles
 
 Added few more comments
 
